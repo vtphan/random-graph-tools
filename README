@@ -4,3 +4,5 @@ Usage: python random_graphs.py [-d] n p [min_weight max_weight]
 	d	directed
 	n	number of vertices
 	p	edge probability
+
+Requires graphviz, in particular dot and neato.
